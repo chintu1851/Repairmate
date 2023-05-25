@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>159819330061-bg9tirhim8sr6qfs4sbidj6g23kls87i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.159819330061-bg9tirhim8sr6qfs4sbidj6g23kls87i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDcvFoD3y-ug2g9CKqtVpuiItasbYjQQJw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>159819330061</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.arjun.RepairMate-custLogin</string>
+	<key>PROJECT_ID</key>
+	<string>fir-demofw2223arjun</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-demofw2223arjun.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:159819330061:ios:95eac0429225c5ce84db44</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-demofw2223arjun-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
